@@ -4,7 +4,7 @@ networks:
 
 services:
   rustdesk:
-    image: ghcr.io/5120xiaoge/rustdesk-server-s6-reviewed:reviewed-20261111-v1.2
+    image: ghcr.io/5120xg/rustdesk-server-s6-reviewed:reviewed-20261111-v1.2
     ports:
       - "21114:21114"
       - "21115:21115"
