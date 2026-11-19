@@ -7,10 +7,10 @@ contains a source snapshot, not their Git history.
 ## Images
 
 - Integrated server and API:
-  `ghcr.io/5120xiaoge/rustdesk-server-s6-reviewed:reviewed-20261111-v1.2`
+  `ghcr.io/5120xg/rustdesk-server-s6-reviewed:reviewed-20261111-v1.2`
   (`sha256:bfa791c8cb6662ce157ca4c583df101bdcc44a5d97106d6bd1b3d259b8cf1aae`)
 - API:
-  `ghcr.io/5120xiaoge/rustdesk-api-reviewed:reviewed-20261111-v1.2`
+  `ghcr.io/5120xg/rustdesk-api-reviewed:reviewed-20261111-v1.2`
   (`sha256:3499576cdc034c3e9f280193ad8c9a58d2d260f0a9d53e26a6dacc851b6e082a`)
 
 See [BUILD.md](BUILD.md) for build instructions and [deploy/README.md](deploy/README.md)
