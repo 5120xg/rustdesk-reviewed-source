@@ -65,7 +65,7 @@ To build with the exact published API base instead of rebuilding it, replace the
 `API_IMAGE` build argument with:
 
 ```text
-ghcr.io/5120xiaoge/rustdesk-api-reviewed@sha256:3499576cdc034c3e9f280193ad8c9a58d2d260f0a9d53e26a6dacc851b6e082a
+ghcr.io/5120xg/rustdesk-api-reviewed@sha256:3499576cdc034c3e9f280193ad8c9a58d2d260f0a9d53e26a6dacc851b6e082a
 ```
 
 All commands above are local builds and tests; they do not push images or change a
