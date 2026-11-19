@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 15
     env:
-      IMAGE: ghcr.io/5120xiaoge/rustdesk-server-s6-reviewed@sha256:bfa791c8cb6662ce157ca4c583df101bdcc44a5d97106d6bd1b3d259b8cf1aae
+      IMAGE: ghcr.io/5120xg/rustdesk-server-s6-reviewed@sha256:bfa791c8cb6662ce157ca4c583df101bdcc44a5d97106d6bd1b3d259b8cf1aae
       RUSTDESK_PUBLIC_HOST: rustdesk.example.test
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
